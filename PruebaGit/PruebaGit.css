@@ -3,8 +3,17 @@ img{
     height: 250px;
 }
 div{
-    width: 500px;
-    height: 500px;
+    background-color: aqua;
+    width: 250px;
+    height: 150px;
     margin: auto ;
     display: flex;
+    padding: 5px;
+    border-radius: 20px;
+    align-items: center;
 }
+
+p{
+    font-weight: bold;
+}
+
